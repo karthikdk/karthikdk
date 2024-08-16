@@ -10,8 +10,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES6 | C++
-- 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js | AWS
-- 🛢 &nbsp; MongoDB | PostgreSQL
+- 🌐 &nbsp; HTML | CSS | ReactJS | Node.js | Express.js 
+- 🛢 &nbsp; MongoDB | MySQL
 - 🔧 &nbsp; Git | Markdown
 
 <h3> 🤝🏻 Connect with Me </h3>
