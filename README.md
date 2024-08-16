@@ -12,7 +12,7 @@
 - 💻 &nbsp; JavaScript | ES6 | ES7
 - 🌐 &nbsp; HTML | CSS | ReactJS | Node.js | Express.js 
 - 🛢 &nbsp; MongoDB | MySQL
-- 🔧 &nbsp; Git | Markdown
+- 🔧 &nbsp; Git | Bitbucket
 
 <h3> 🤝🏻 Connect with Me </h3>
 
