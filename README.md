@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🕸️ &nbsp; Passionate about the **Web (WWW)** and I yearn to **simplify web for everyone**.
-- 🔭 &nbsp; Currently working on **Full Stack (AWS, MongoDB, Express.js, React, Node.js)** .
+- 🔭 &nbsp; Currently working on **Full Stack ( MongoDB, Express.js, React, Node.js)** .
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
