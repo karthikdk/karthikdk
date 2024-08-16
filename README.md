@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | ES6 | C++
+- 💻 &nbsp; JavaScript | ES6 | ES7
 - 🌐 &nbsp; HTML | CSS | ReactJS | Node.js | Express.js 
 - 🛢 &nbsp; MongoDB | MySQL
 - 🔧 &nbsp; Git | Markdown
